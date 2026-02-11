@@ -1,0 +1,9 @@
+logging
+pandas
+nltk
+requests
+joblib
+beautifulsoup4
+xgboost
+Flask
+flask-cors
